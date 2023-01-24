@@ -1,14 +1,43 @@
-👋 Hi, I’m Inês Piedade
+👋 Hi
 
-I have been programming professionally since 2014.
+const aboutMe = {
+ name: 'Inês Piedade',
+ profession: 'FullStack Developer',
+ country: 'Portugal',
+ experienceSince:2014,
+ favoriteTecnologies:[
+  'Node.js',
+  'SQL',
+  'React,js',
+  'Typescript',
+  'JavaScript'
+ ],
+ softSkills: [
+   'communication',
+   'leadership',
+   'teamwork',
+   'organization',
+   'responsibility'
+ ] 
+};
 
-In addition to my professional experience, I consider myself a responsible person, very organized, who likes new challenges and is eager to progress.
+function faleComigo() {
+ return {
+   email: 'brunobandeira25ab@gmail.com',
+   linkedin: 'https://www.linkedin.com/in/brunodevbandeira/',
+   whatsapp: '+55 11 93215-4488',
+   16Personalities: 'https://www.16personalities.com/br/personalidade-entj'
+ }
+}
 
-I am pleased to promote a collaborative environment where the entire team feels good.
+<p align="center" dir="auto">
+    <a href="[https://www.linkedin.com/in/DavidsDvm](https://www.linkedin.com/in/ines-pinha-piedade/)" rel="nofollow">
+      https://www.linkedin.com/in/ines-pinha-piedade/
+  </a>
+      
+    <a href="mailto: inespinhamonteiro@gmail.com">
+     inespinhamonteiro@gmail.com
+    </a>
+ </p>
 
-I have always worked part-time (~30 hours per week) in order to reconcile with the voluntary service that I perform and value.
-
-
-✉ inespinhamonteiro@gmail.com
-
-🔗[www.linkedin.com/in/ines-pinha-piedade](https://www.linkedin.com/in/ines-pinha-piedade/) 
+ 
