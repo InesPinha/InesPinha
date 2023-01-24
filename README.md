@@ -1,5 +1,6 @@
 👋 Hi
-<p align="center" dir="auto">
+
+ <div>
 const aboutMe = {
  name: 'Inês Piedade',
  profession: 'FullStack Developer',
@@ -20,7 +21,7 @@ const aboutMe = {
    'responsibility'
  ] 
 }
-</p>
+</div>
 
 
     <a href="[https://www.linkedin.com/in/DavidsDvm](https://www.linkedin.com/in/ines-pinha-piedade/)" rel="nofollow">
