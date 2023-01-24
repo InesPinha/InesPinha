@@ -1,5 +1,5 @@
 👋 Hi
-
+<p align="center" dir="auto">
 const aboutMe = {
  name: 'Inês Piedade',
  profession: 'FullStack Developer',
@@ -20,9 +20,9 @@ const aboutMe = {
    'responsibility'
  ] 
 }
+</p>
 
 
-<p align="center" dir="auto">
     <a href="[https://www.linkedin.com/in/DavidsDvm](https://www.linkedin.com/in/ines-pinha-piedade/)" rel="nofollow">
       https://www.linkedin.com/in/ines-pinha-piedade/
   </a>
@@ -30,6 +30,6 @@ const aboutMe = {
     <a href="mailto: inespinhamonteiro@gmail.com">
      inespinhamonteiro@gmail.com
     </a>
- </p>
+ 
 
  
