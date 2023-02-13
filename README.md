@@ -6,7 +6,7 @@ In addition to my professional experience, I consider myself a responsible perso
 
 I am pleased to promote a collaborative environment where the entire team feels good.
 
-I have always worked part-time (~30 hours per week) in order to reconcile with the voluntary service that I perform and value.
+I have always worked 4 days per week in order to reconcile with the voluntary service that I perform and value.
 
 
 ✉ inespinhamonteiro@gmail.com
